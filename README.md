@@ -1,6 +1,11 @@
 ## Hello there
 
 ![holy-c](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/800px-HolyC_Logo.svg.png)
+![cpp](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![c](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
+![assembly](https://avatars.githubusercontent.com/u/10872782?s=200&v=4)
+![pdx](https://en.wikipedia.org/wiki/Paradox_Interactive#/media/File:Paradox_Interactive_logo.svg)
+![f#](https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
