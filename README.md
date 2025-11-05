@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Python" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Python" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4" alt="Python" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Paradox_Interactive_logo.svg" alt="Python" width="50" height="50">
+<img src="https://cdn.brandfetch.io/idNjLurmVO/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1760154931775" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="Python" width="50" height="50">
 <!--
 - 🔭 I’m currently working on ...
