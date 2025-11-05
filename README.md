@@ -1,6 +1,6 @@
 ## Hello there
 
-![holy-c](https://en.wikipedia.org/wiki/TempleOS#/media/File:HolyC_Logo.svg)
+![holy-c](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/800px-HolyC_Logo.svg.png)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
