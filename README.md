@@ -12,7 +12,7 @@ Limited knowledge of:
 <p>
   <img src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4" alt="Python" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="Python" width="50" height="50" />
-   <img src="[https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg](https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg)" alt="Python" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Python" width="50" height="50" />
 </p>
 
 Also worked exensively with Paradox Script, the scripting language used by Paradox Interactive games:
