@@ -14,7 +14,7 @@ Limited knowledge of:
   <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Python" width="50" height="50" />
 </p>
 
-Also worked exensively with Paradox Script, the scripting language used by Paradox Interactive games:
+Also worked **extensively** with Paradox Script, the scripting language used by Paradox Interactive games:
 <p>
   <img src="https://cdn.brandfetch.io/idNjLurmVO/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1760154931775" width="50" height="50" />
 </p>
