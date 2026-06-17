@@ -5,13 +5,13 @@ Languages I can code with:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Python" width="46" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Python" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Python" width="50" height="50" />
 </p>
 
 Limited knowledge of:
 <p>
   <img src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4" alt="Python" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" alt="Python" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Python" width="50" height="50" />
 </p>
 
 Also worked **extensively** with Paradox Script, the scripting language used by Paradox Interactive games:
